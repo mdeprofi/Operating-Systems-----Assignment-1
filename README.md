@@ -4,6 +4,7 @@ The repository contains the following files:
 2) consumer.c - Contains the consumer implementation that works with producer.c to consume data in the buffer.
 
 Usage Instructions
+
 Before compiling, make sure you are working in a Linux environment.
 For example, this project was teste on the Kent State University servers (wasp/hornet).
 Once you get into the Linux environment you need to create both the producer and consumer files by doing:
