@@ -25,5 +25,7 @@ These commands compile both files.
 Execution
 
 Once compiled, run the programs with:
+
      - ./producer & ./consumer &
+     
 This command will run the program.
