@@ -15,8 +15,11 @@ Then copy the provided code into each respective file.
 Compilation
 
 Once the code has been copied over, type the following commands in the terminal:
+
      - gcc producer.c -pthread -lrt -o producer
+     
      - gcc consumer.c -pthread -lrt -o consumer
+     
 These commands compile both files.
 
 Execution
